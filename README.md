@@ -1,3 +1,3 @@
 # Book bot
 
-A boot.dev project
+my first project
