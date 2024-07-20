@@ -1,1 +1,3 @@
-# Book bot\nA boot.dev project
+# Book bot
+
+A boot.dev project
